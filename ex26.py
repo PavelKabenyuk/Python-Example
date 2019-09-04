@@ -97,3 +97,5 @@ if people <= dogs:
 
 if people == dogs:
     print("Людей столько же, сколько собак.")
+
+input()
